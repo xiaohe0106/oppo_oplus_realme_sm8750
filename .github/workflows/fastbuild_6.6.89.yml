@@ -5,7 +5,7 @@ env:
   ANDROID_VERSION: 'android15'
   KERNEL_VERSION: '6.6'
   SUB_VERSION: '89'
-  KERNEL_NAME: 'android15-8-gf4dc4570454-abogki446052083-4k'
+  KERNEL_NAME: 'android15-8-gf4dc45704e54-abogki446052083-4k'
   CCACHE_KEY: ccache-neov4-6.6.89
 
 on:
